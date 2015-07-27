@@ -1,4 +1,4 @@
-# Application de chat avec node js et postgresql
+# Chat avec react/flux node js et postgresql
 
 Application de chat avec : 
 
