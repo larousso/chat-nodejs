@@ -4,7 +4,7 @@ Application de chat avec :
 
 * Front end : react et flux 
 * Backend : node js 
-* Postgresql avec NOTIFY/LISTENT
+* Postgresql avec NOTIFY/LISTEN
 
 
 Lancer le server postgresql : 
